@@ -1,0 +1,6 @@
+{
+  "name": "D-Chat",
+  "description": "A distributed, secure, and fast real-time chat application developed by Deny.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
